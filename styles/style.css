@@ -375,17 +375,17 @@ font-weight: normal;
   padding: 0;
 }
 
-.column_links{
+.footer__column-link{
   list-style: none;
   margin-left: 0;
   
 }
-.column_links:link {
+.footer__column-link:link {
   text-decoration: none;
   color: white;
 
 }
-.column_links:hover {
+.footer__column-link:hover {
   color: gray;
 }
 
